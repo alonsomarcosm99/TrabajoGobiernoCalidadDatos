@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "repository": "AlonsoMarcosM/TrabajoGobiernoCalidadDatos",
-  "repository_url": "https://github.com/AlonsoMarcosM/TrabajoGobiernoCalidadDatos",
+  "repository": "alonsomarcosm99/TrabajoGobiernoCalidadDatos",
+  "repository_url": "https://github.com/alonsomarcosm99/TrabajoGobiernoCalidadDatos",
   "title": {"es": "Gobierno y Calidad del Dato", "en": "Data Governance and Quality"},
   "summary": {
     "es": "Caso EnergiTech materializado en OpenMetadata conforme a procesos UNE 0077-0081.",
@@ -14,6 +14,6 @@
     "mode": "static-evidence",
     "source_branch": "main",
     "status": "live",
-    "url": "https://alonsomarcosm.github.io/TrabajoGobiernoCalidadDatos/"
+    "url": "https://alonsomarcosm99.github.io/TrabajoGobiernoCalidadDatos/"
   }
 }

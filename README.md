@@ -1,8 +1,8 @@
 # Gobierno y Calidad del Dato sobre OpenMetadata · Caso EnergiTech (MUBDCN UCLM 2025/26)
 
-> **Despliegue público:** [Abrir despliegue](https://alonsomarcosm.github.io/TrabajoGobiernoCalidadDatos/)
+> **Despliegue público:** [Abrir despliegue](https://alonsomarcosm99.github.io/TrabajoGobiernoCalidadDatos/)
 
-[AlonsoMarcosM/TrabajoGobiernoCalidadDatos](https://github.com/AlonsoMarcosM/TrabajoGobiernoCalidadDatos)
+[alonsomarcosm99/TrabajoGobiernoCalidadDatos](https://github.com/alonsomarcosm99/TrabajoGobiernoCalidadDatos)
 
 > Práctica Transversal de la asignatura **Gobierno y Calidad del Dato** del *Máster Universitario en Big Data y Computación en la Nube* (UCLM). Aplica los procesos **UNE 0077, 0078, 0079, 0080 y 0081** sobre un caso ficticio —**EnergiTech**, multinacional de distribución de energía renovable— y materializa el modelo simplificado en una instancia real de **OpenMetadata** desplegada en Kubernetes. Cada decisión de gobierno se acompaña de una evidencia visual reproducible.
 
@@ -285,7 +285,7 @@ Plan de mejora completo (10 iniciativas, Gantt 12 m, ~670 k€): [`entregable/an
 Práctica Transversal de *Gobierno y Calidad del Dato*, curso 2025-2026.
 
 - **Asignatura:** Gobierno y Calidad del Dato (MUBDCN).
-- **TFM relacionado:** [Diseño y configuración de un modelo de metadatos en OpenMetadata conforme al estándar DCAT-AP](https://github.com/AlonsoMarcosM/TFM_Alonso_Marcos_Mu-oz).
+- **TFM relacionado:** [Diseño y configuración de un modelo de metadatos en OpenMetadata conforme al estándar DCAT-AP](https://github.com/alonsomarcosm99/TFM_Alonso_Marcos_Mu-oz).
 
 ---
 
