@@ -1,5 +1,9 @@
 # Gobierno y Calidad del Dato sobre OpenMetadata · Caso EnergiTech (MUBDCN UCLM 2025/26)
 
+**En una frase:** Caso práctico de gobierno del dato para una distribuidora de energía ficticia con clientes duplicados entre silos, previsiones de demanda calculadas con datos sucios y accesos sin trazabilidad. Aplica los procesos UNE 0077 a 0081 en seis proyectos (requisitos, metadatos, MDM, medición de calidad, control y madurez) y los materializa en OpenMetadata sobre Kubernetes como catálogo, glosario, linaje y propiedades UNE navegables, cargados y borrados con scripts Python idempotentes.
+
+**In one sentence:** Data governance case study for a fictional energy distributor with customers duplicated across silos, demand forecasts built on dirty data and untraceable access. It applies the UNE 0077 to 0081 processes in six workstreams (requirements, metadata, MDM, quality measurement, control and maturity) and materializes them in OpenMetadata on Kubernetes as a navigable catalog, glossary, lineage and UNE custom properties, loaded and removed with idempotent Python scripts.
+
 > **Despliegue público:** [Abrir despliegue](https://alonsomarcosm99.github.io/TrabajoGobiernoCalidadDatos/)
 
 [alonsomarcosm99/TrabajoGobiernoCalidadDatos](https://github.com/alonsomarcosm99/TrabajoGobiernoCalidadDatos)
